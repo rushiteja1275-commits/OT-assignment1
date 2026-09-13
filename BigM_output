@@ -1,0 +1,29 @@
+Iteration: 1
+Cj - Zj = [ 3000003.  2000005. -1000000.  1000000.        0. -1000000.]
+Current Z = -18000000.0
+Entering variable: x1
+Leaving variable: s1
+
+Iteration: 2
+Cj - Zj = [       0.  2000005. -4000003.  1000000.        0. -1000000.]
+Current Z = -5999988.0
+Entering variable: x2
+Leaving variable: A3
+
+Iteration: 3
+Cj - Zj = [ 0.0e+00  0.0e+00  7.0e+00 -2.5e+00  0.0e+00 -1.0e+06]
+Current Z = 27.0
+Entering variable: s1
+Leaving variable: s2
+
+Iteration: 4
+Cj - Zj = [ 0.0e+00  0.0e+00  0.0e+00 -1.1e+00  0.0e+00 -1.0e+06]
+Current Z = 35.4
+
+===================================
+         BIG-M FINAL ANSWER
+===================================
+x1 = 2.8000
+x2 = 5.4000
+
+Optimal value of Z = 35.4000
